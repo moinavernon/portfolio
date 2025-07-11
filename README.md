@@ -2,10 +2,6 @@
 
 #### Technical Skills: Java, Python, SQL, AWS
 
-## Summary
-
-Highly motivated and results-oriented computer science professional with a Master's degree and experience in software development, database management, and cybersecurity.  Proven ability to design, develop, and deploy full-stack web applications, manage backend integrations, and provide detailed feedback and support to peers.  Passionate about leveraging technology to solve complex problems and enhance user experiences.
-
 ## Education
 - M.S., Computer Science | California State Polytechnic University, Pomona (_May 2025_)	 			        		
 - B.S., Computer Science | California State Polytechnic University, Pomona (_May 2023_)
@@ -24,7 +20,7 @@ Highly motivated and results-oriented computer science professional with a Maste
 - Graded assignments and exams for undergraduate database systems and algorithms courses, providing detailed feedback on code correctness, algorithm design, and theoretical understanding.
 - Created visual aids (diagrams and illustrations) to support the professor's lectures, enhancing student comprehension.
 
-## Relevant Coursework
+## Projects
 **CS 4800 - Software Engineering (_August 2022 - December 2022_)**
 * Developed and deployed a full-stack web application ("Coffee 2 Conference") using HTML, CSS, JavaScript, Python, Firebase Realtime Database, and AWS EC2.  [GitHub Repo](https://github.com/moinavernon/Coffee-2-Conference)
 * Managed backend integration between frontend and database using Python and JavaScript.
@@ -41,13 +37,6 @@ Highly motivated and results-oriented computer science professional with a Maste
 * Directed the research team for the Capture the Flag (CTF) competition at SCaLE 2023.
 * Provided feedback and resolved issues while crafting technical questions.
 * Engaged with the FAST CTF infrastructure team as a researcher, focusing on question writing in cryptography and web development.
-
-## Projects
-### Project 1
-[Publication](https://www.google.com)
-
-Description goes **here**.
-Add img here.
 
 ## Publications
 - [Master's Thesis Bronco Scholar](https://scholarworks.calstate.edu/catalog?utf8=✓&f%5Bcampus_sim%5D%5B%5D=Pomona&f%5Bdegree_level_sim%5D%5B%5D=Masters&f%5Bdepartment_sim%5D%5B%5D=Computer+Science&search_field=dummy_range&range%5Bdate_issued_year_sim%5D%5Bbegin%5D=2025&range%5Bdate_issued_year_sim%5D%5Bend%5D=2026&commit=Limit)
