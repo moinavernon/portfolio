@@ -22,7 +22,7 @@
 
 ## Projects
 **CS 4800 - Software Engineering (_August 2022 - December 2022_)**
-* Developed and deployed a full-stack web application ("Coffee 2 Conference") using HTML, CSS, JavaScript, Python, Firebase Realtime Database, and AWS EC2.  [GitHub Repo](https://github.com/moinavernon/Coffee-2-Conference)
+* Developed and deployed a full-stack web application ("Coffee 2 Conference") using HTML, CSS, JavaScript, Python, Firebase Realtime Database, and AWS EC2.  [GitHub Repo](https://github.com/CS4800-1/c2c)
 * Managed backend integration between frontend and database using Python and JavaScript.
 * Implemented comprehensive CRUD (Create, Read, Update, Delete) operations for event data.
 
