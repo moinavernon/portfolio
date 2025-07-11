@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: Java, Python, SQL, AWS
+#### Technical Skills: GitHub, SQL, AWS, Python, Java
 
 ## Education
 - M.S., Computer Science | California State Polytechnic University, Pomona (_May 2025_)	 			        		
@@ -38,5 +38,7 @@
 * Provided feedback and resolved issues while crafting technical questions.
 * Engaged with the FAST CTF infrastructure team as a researcher, focusing on question writing in cryptography and web development.
 
+<!--
 ## Publications
 - [Master's Thesis Bronco Scholar](https://scholarworks.calstate.edu/catalog?utf8=✓&f%5Bcampus_sim%5D%5B%5D=Pomona&f%5Bdegree_level_sim%5D%5B%5D=Masters&f%5Bdepartment_sim%5D%5B%5D=Computer+Science&search_field=dummy_range&range%5Bdate_issued_year_sim%5D%5Bbegin%5D=2025&range%5Bdate_issued_year_sim%5D%5Bend%5D=2026&commit=Limit)
+-->
